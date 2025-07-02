@@ -1,0 +1,42 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  
+  <!-- Portfolio briefcase body -->
+  <rect x="50" y="80" width="100" height="70" rx="8" ry="8" fill="#3b82f6" stroke="#1e40af" stroke-width="2"/>
+  
+  <!-- Portfolio handle -->
+  <rect x="85" y="65" width="30" height="8" rx="4" ry="4" fill="#64748b"/>
+  <rect x="85" y="72" width="30" height="4" rx="2" ry="2" fill="#1e40af"/>
+  
+  <!-- Portfolio clasp/lock -->
+  <rect x="95" y="85" width="10" height="6" rx="2" ry="2" fill="#fbbf24"/>
+  <circle cx="100" cy="88" r="2" fill="#f59e0b"/>
+  
+  <!-- Document/folder tabs inside portfolio -->
+  <rect x="60" y="95" width="25" height="30" rx="2" ry="2" fill="#ffffff" opacity="0.9"/>
+  <rect x="90" y="92" width="25" height="33" rx="2" ry="2" fill="#f1f5f9" opacity="0.9"/>
+  <rect x="120" y="98" width="25" height="27" rx="2" ry="2" fill="#e2e8f0" opacity="0.9"/>
+  
+  <!-- Document lines for detail -->
+  <line x1="65" y1="102" x2="78" y2="102" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="65" y1="106" x2="80" y2="106" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="65" y1="110" x2="75" y2="110" stroke="#94a3b8" stroke-width="1"/>
+  
+  <line x1="95" y1="100" x2="108" y2="100" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="95" y1="104" x2="110" y2="104" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="95" y1="108" x2="105" y2="108" stroke="#94a3b8" stroke-width="1"/>
+  
+  <!-- Portfolio side details -->
+  <rect x="50" y="85" width="100" height="2" fill="#1e40af"/>
+  <rect x="50" y="145" width="100" height="2" fill="#1e40af"/>
+  
+  <!-- Corner reinforcements -->
+  <circle cx="55" cy="85" r="3" fill="#1e40af"/>
+  <circle cx="145" cy="85" r="3" fill="#1e40af"/>
+  <circle cx="55" cy="145" r="3" fill="#1e40af"/>
+  <circle cx="145" cy="145" r="3" fill="#1e40af"/>
+  
+  <!-- Shadow effect -->
+  <ellipse cx="100" cy="165" rx="45" ry="8" fill="#000000" opacity="0.1"/>
+</svg>
