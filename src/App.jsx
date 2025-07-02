@@ -90,7 +90,7 @@ const App = () => {
       image:
         "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=500&h=300&fit=crop",
       github: "https://github.com/rpratiksha031/Blogger",
-      live: "https://blogger-ivory-ten.vercel.app",
+      live: "https://blogger-theta-rust.vercel.app/",
     },
     {
       id: 3,
