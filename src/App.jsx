@@ -100,7 +100,7 @@ const App = () => {
       tags: ["React.js", "Tailwindcss", "mongo DB", "JavaScript", "Charts"],
       image: "pizza1.jpg",
       github: "https://github.com/rpratiksha031/pizza-tarian",
-      live: "#",
+      live: "https://my-portfolio-theta-rust-15.vercel.app/",
     },
   ];
 
